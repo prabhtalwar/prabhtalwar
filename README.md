@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Prabh.
+I am **Prabh**.
 she/her/hers
 I am a curious learner.
 My hobbies are dancing, reading, sports,...etc.
