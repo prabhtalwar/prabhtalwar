@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am **Prabh**.
-she/her/hers
+(she/her/hers)
 I am a curious learner.
 My hobbies are dancing, reading, sports,...etc.
 I’m currently learning Machine Learning in R Language.
