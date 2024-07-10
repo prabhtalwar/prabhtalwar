@@ -8,6 +8,7 @@ I am a curious learner. <br>
 👀 Seeking to leverage data analytical skills to improve corporate performance as a data analyst. <br>
 
 As a data analytics student, I worked on many small and large-scale datasets and projects which allowed me to expand my data toolset and knowledge. <br>
+
 **💁 During my diploma in data analytics, my wins included:**<br>
 📈 Fine data manipulation skills with Google Sheets, Excel, PBI dashboard, and Tableau <br>
 📊 Competency with data visualization tools like Power BI and Tableau <br>
