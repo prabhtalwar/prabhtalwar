@@ -20,9 +20,9 @@ As a data analytics student, I worked on many small and large-scale datasets and
 | [Medium](https://medium.com/@prabhsimran1099)  | [Linkedln](https://www.linkedin.com/in/prabh-simran-kaur-talwar/) |
 
 
-| **Toolset**  | **My LinkedIn** |
+| **Toolset**  |  |
 | ------------- | ------------- |
-|                    |                           |
+|Data Visualisation |  ! [https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png]             |
 
 
 
