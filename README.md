@@ -22,7 +22,7 @@ As a data analytics student, I worked on many small and large-scale datasets and
 
 | **Toolset**  |  |
 | ------------- | ------------- |
-|Data Visualisation |  ![PowerBI](https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png) <img src="[IMG_LINK](https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png)" width="100" height="100"/>    ![Tableau](https://www.svgrepo.com/show/354427/tableau.svg) |
+|Data Visualisation |  ![PowerBI](https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png) <img src="[https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png]" width="100" height="100"/>    ![Tableau](https://www.svgrepo.com/show/354427/tableau.svg) |
 
 
 
