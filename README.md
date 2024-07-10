@@ -17,7 +17,7 @@ As a data analytics student, I worked on many small and large-scale datasets and
 
 | **My Blog**  | **MyLinkedIn** |
 | ------------- | ------------- |
-| [Medium](https://medium.com/@prabhsimran1099)  | [Linkedln] (https://www.linkedin.com/in/prabh-simran-kaur-talwar/) |
+| [Medium](https://medium.com/@prabhsimran1099)  | [Linkedln](https://www.linkedin.com/in/prabh-simran-kaur-talwar/) |
 
 
 
