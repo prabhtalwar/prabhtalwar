@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am **Prabh**.
+
 (she/her/hers)
 I am a curious learner. 
 💥 Analytical and detail-oriented recent graduate with a Post-Baccalaureate Diploma in Marketing and Data Analytics helped me build analytical and problem-solving skills. 
