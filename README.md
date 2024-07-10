@@ -15,9 +15,14 @@ As a data analytics student, I worked on many small and large-scale datasets and
 📉 Ability to use analytical tools like R Studio, Python, SQL <br>
 ✒️ Experience in implementing Machine Learning techniques for more efficient data analysis. <br>
 
-| **My Blog**  | **MyLinkedIn** |
+| **My Blog**  | **My LinkedIn** |
 | ------------- | ------------- |
 | [Medium](https://medium.com/@prabhsimran1099)  | [Linkedln](https://www.linkedin.com/in/prabh-simran-kaur-talwar/) |
+
+
+| **Toolset**  | **My LinkedIn** |
+| ------------- | ------------- |
+|                    |                           |
 
 
 
