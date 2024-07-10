@@ -13,4 +13,11 @@ As a data analytics student, I worked on many small and large-scale datasets and
 📈 Fine data manipulation skills with Google Sheets, Excel, PBI dashboard, and Tableau <br>
 📊 Competency with data visualization tools like Power BI and Tableau <br>
 📉 Ability to use analytical tools like R Studio, Python, SQL <br>
-✒️ Experience in implementing Machine Learning techniques for more efficient data analysis.
+✒️ Experience in implementing Machine Learning techniques for more efficient data analysis. <br>
+
+| **My Blog**  | **My Resume** |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
