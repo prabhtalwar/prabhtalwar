@@ -17,7 +17,7 @@ As a data analytics student, I worked on many small and large-scale datasets and
 
 | **My Blog**  | **My Resume** |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| (https://medium.com/@prabhsimran1099)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
